@@ -1,5 +1,5 @@
 Aaron Ye
-
+I have had no experience in CI or CD prior. This is the first time I am hearing the terminology/concept.
 
 Rodrigo Azzolin
 
