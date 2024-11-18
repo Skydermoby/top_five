@@ -5,4 +5,4 @@ Rodrigo Azzolin
 
 
 Wills McGraw
-
+I have no previous in CI/CD. I believe I had a small assignment about deployment in my CS 2104 class last semester, but I didn't quite understand what I was doing.
